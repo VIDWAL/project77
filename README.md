@@ -1,2 +1,2 @@
-# project77
-batter application 
+# barter-app-stage-1
+Login and SignUp
